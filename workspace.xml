@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1W9vS1iO1ABo7sdhJlCEP0vGHJ4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578574260451" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1 vector" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\1 vector" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\Simpel 2 lags model\src" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\lek1\src\Stak" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\src\uge01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.2 Simpel 2 lags model">
+    <configuration name="1 stak" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="1 stak" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1 vector" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main1" />
+      <module name="1 vector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2 Simpel 2 lags model" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2 Simpel 2 lags model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.1 stak" />
+      <item itemvalue="Application.1 vector" />
+      <item itemvalue="Application.2 Simpel 2 lags model" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="" />
+      <created>1578574090677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578574090677</updated>
+      <workItem from="1578574092489" duration="389000" />
+      <workItem from="1578574621854" duration="3444000" />
+      <workItem from="1578578180725" duration="1120000" />
+      <workItem from="1578579561192" duration="354000" />
+      <workItem from="1578646863305" duration="1336000" />
+      <workItem from="1578648261559" duration="2061000" />
+      <workItem from="1578650386856" duration="1128000" />
+      <workItem from="1578658948153" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1 stak/src/Main2.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
