@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="tset sh">
-      <change afterPath="$PROJECT_DIR$/0 Main/src/main/Main.java" afterDir="false" />
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.0 Main">
+    <configuration name="0 Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="0 Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="1 stak" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main22" />
       <module name="1 stak" />
@@ -79,30 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="0 Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.0 Main" />
       <item itemvalue="Application.1 stak" />
       <item itemvalue="Application.1 vector" />
       <item itemvalue="Application.2 Simpel 2 lags model" />
-      <item itemvalue="Application.Main" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,8 +119,23 @@
       <workItem from="1578660391216" duration="238000" />
       <workItem from="1578661191123" duration="615000" />
       <workItem from="1578904303771" duration="125000" />
-      <workItem from="1578904527165" duration="262000" />
+      <workItem from="1578904527165" duration="421000" />
     </task>
+    <task id="LOCAL-00001" summary="oprettet main 0">
+      <created>1578904856406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578904856406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="oprettet main 0">
+      <created>1578904881297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578904881297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tset sh" />
-    <option name="LAST_COMMIT_MESSAGE" value="tset sh" />
+    <MESSAGE value="oprettet main 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="oprettet main 0" />
   </component>
 </project>
