@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0 Main/0 Main.iml" filepath="$PROJECT_DIR$/0 Main/0 Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/02324 Solutions 1 - 4.iml" filepath="$PROJECT_DIR$/02324 Solutions 1 - 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 complex/1 complex.iml" filepath="$PROJECT_DIR$/1 complex/1 complex.iml" />
       <module fileurl="file://$PROJECT_DIR$/1 stak/1 stak.iml" filepath="$PROJECT_DIR$/1 stak/1 stak.iml" />
       <module fileurl="file://$PROJECT_DIR$/1 vector/1 vector.iml" filepath="$PROJECT_DIR$/1 vector/1 vector.iml" />
       <module fileurl="file://$PROJECT_DIR$/2 Simpel 2 lags model/2 Simpel 2 lags model.iml" filepath="$PROJECT_DIR$/2 Simpel 2 lags model/2 Simpel 2 lags model.iml" />

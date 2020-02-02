@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="">
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="Tilføjet complex">
+      <change afterPath="$PROJECT_DIR$/1 complex/src/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 complex/src/IComplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -56,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.0 Main">
+  <component name="RunManager" selected="Application.complex">
     <configuration name="0 Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="0 Main" />
@@ -91,8 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="complex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Complex" />
+      <module name="1 complex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.0 Main" />
+      <item itemvalue="Application.complex" />
       <item itemvalue="Application.1 stak" />
       <item itemvalue="Application.1 vector" />
       <item itemvalue="Application.2 Simpel 2 lags model" />
@@ -119,7 +131,10 @@
       <workItem from="1578660391216" duration="238000" />
       <workItem from="1578661191123" duration="615000" />
       <workItem from="1578904303771" duration="125000" />
-      <workItem from="1578904527165" duration="421000" />
+      <workItem from="1578904527165" duration="823000" />
+      <workItem from="1578907547039" duration="11000" />
+      <workItem from="1579030828120" duration="13000" />
+      <workItem from="1580663039645" duration="5456000" />
     </task>
     <task id="LOCAL-00001" summary="oprettet main 0">
       <created>1578904856406</created>
@@ -135,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578904881297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="oprettet main 0">
+      <created>1578904961907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578904961907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tset sh" />
     <MESSAGE value="oprettet main 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="oprettet main 0" />
+    <MESSAGE value="Tilføjet complex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tilføjet complex" />
   </component>
 </project>
