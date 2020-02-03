@@ -87,7 +87,7 @@ public class Complex implements IComplex
     }
 
     // return a new Complex object whose value is the conjugate of this
-    public Complex conjugate() {
+    public IComplex conjugate() {
         return new Complex(re, -im);
     }
 

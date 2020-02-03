@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="Tilføjet complex">
-      <change afterPath="$PROJECT_DIR$/1 complex/src/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 complex/src/IComplex.java" afterDir="false" />
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="oprettet bmi opgave">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 complex/1 complex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/2 Anvendelse af 3 lags modellen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Funk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/IData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/IFunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Tui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 complex/src/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/1 complex/src/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/1 vector/src/Main1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578574260451" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1 vector" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -42,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\2 Anvendelse af 3 lags modellen\src\bmi" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\1 vector" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\Simpel 2 lags model\src" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\lek1\src\Stak" />
@@ -60,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.complex">
+  <component name="RunManager" selected="Application.2 Anvendelse af 3 lags modellen">
     <configuration name="0 Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="0 Main" />
@@ -88,6 +98,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="2 Anvendelse af 3 lags modellen" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bmi.Main" />
+      <module name="2 Anvendelse af 3 lags modellen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="2 Simpel 2 lags model" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="2 Simpel 2 lags model" />
@@ -108,6 +127,7 @@
       <item itemvalue="Application.1 stak" />
       <item itemvalue="Application.1 vector" />
       <item itemvalue="Application.2 Simpel 2 lags model" />
+      <item itemvalue="Application.2 Anvendelse af 3 lags modellen" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -134,7 +154,10 @@
       <workItem from="1578904527165" duration="823000" />
       <workItem from="1578907547039" duration="11000" />
       <workItem from="1579030828120" duration="13000" />
-      <workItem from="1580663039645" duration="5456000" />
+      <workItem from="1580663039645" duration="6538000" />
+      <workItem from="1580722401843" duration="967000" />
+      <workItem from="1580724906679" duration="51000" />
+      <workItem from="1580724974482" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="oprettet main 0">
       <created>1578904856406</created>
@@ -157,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578904961907</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tilføjet complex">
+      <created>1580670811893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580670811893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +210,7 @@
     <MESSAGE value="tset sh" />
     <MESSAGE value="oprettet main 0" />
     <MESSAGE value="Tilføjet complex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tilføjet complex" />
+    <MESSAGE value="oprettet bmi opgave" />
+    <option name="LAST_COMMIT_MESSAGE" value="oprettet bmi opgave" />
   </component>
 </project>

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main1 {
     public static void main(String[] args) {
-        Vector[] vectors = new Vector[6];
+        IVector[] vectors = new IVector[6];
 
         //Tilføj elementer til listen
         vectors[0] = new Vector(1, 1);
@@ -12,7 +12,7 @@ public class Main1 {
         vectors[4] = (Vector) vectors[0].add(vectors[2]); //Vi er nødt til at caste til Vector
         vectors[5] = (Vector) vectors[0].times(4); //Vi er nødt til at caste til Vector
 
-        System.out.println("vectors f�r sortering: " + Arrays.toString(vectors));
+        System.out.println("vectors før sortering: " + Arrays.toString(vectors));
 
         //Sortor listen
         Arrays.sort(vectors);
