@@ -40,7 +40,8 @@ public class Complex implements IComplex
     }
 
     // return a string representation of the invoking Complex object
-    public String toString() {
+
+        public String toString() {
         if (im == 0) return re + "";
         if (re == 0) return im + "i";
         if (im <  0) return re + " - " + (-im) + "i";
