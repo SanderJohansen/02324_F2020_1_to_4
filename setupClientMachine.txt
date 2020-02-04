@@ -12,7 +12,7 @@ tast OK
 
 Tast xxxx for at åbne Run/Debug Confifgurations, kontroller af jre er sat til java 8
 
-
+,,
 
 
 
