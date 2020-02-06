@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/setupClientMachine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/setupClientMachine.txt" afterDir="false" />
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="demodataarray">
+      <change afterPath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/DemoDataArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/1 vector/src/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2 Simpel 2 lags model/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/DemoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/DemoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/IData.java" beforeDir="false" afterPath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/IData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/ui/TUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/2 Simpel 2 lags model/src/ui/TUI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -58,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.complex">
+  <component name="RunManager" selected="Application.2 Simpel 2 lags model">
     <configuration name="0 Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="0 Main" />
@@ -151,7 +157,8 @@
       <workItem from="1580760429647" duration="72000" />
       <workItem from="1580760574625" duration="90000" />
       <workItem from="1580760843277" duration="7000" />
-      <workItem from="1580761037863" duration="746000" />
+      <workItem from="1580815606350" duration="1445000" />
+      <workItem from="1581008848694" duration="12249000" />
     </task>
     <task id="LOCAL-00001" summary="oprettet main 0">
       <created>1578904856406</created>
@@ -195,21 +202,7 @@
       <option name="project" value="LOCAL" />
       <updated>1580759947377</updated>
     </task>
-    <task id="LOCAL-00007" summary="div rettelser">
-      <created>1580761061553</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1580761061553</updated>
-    </task>
-    <task id="LOCAL-00008" summary="div rettelser">
-      <created>1580815320993</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1580815320993</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +227,7 @@
     <MESSAGE value="Tilføjet complex" />
     <MESSAGE value="oprettet bmi opgave" />
     <MESSAGE value="div rettelser" />
-    <option name="LAST_COMMIT_MESSAGE" value="div rettelser" />
+    <MESSAGE value="demodataarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="demodataarray" />
   </component>
 </project>

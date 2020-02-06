@@ -1,4 +1,5 @@
-public class Vector implements IVector, Comparable<IVector> {
+public class Vector implements IVector//  , Comparable<IVector>
+    {
     private double x, y;
     
     public Vector(double x, double y){
@@ -46,13 +47,13 @@ public class Vector implements IVector, Comparable<IVector> {
         return "(" + x + "," + y + ")";
     }
 
-    @Override
-    public int compareTo(IVector o) {
-        /*
-         * Længden af vektoren kunne passende findes med en metode
-         */
-        double thisLength = Math.sqrt(Math.pow(this.x,2) + Math.pow(this.y,2));
-        double oLength = Math.sqrt(Math.pow(o.getX(),2) + Math.pow(o.getY(),2));
-        return Double.compare(thisLength, oLength);
-    }
+
+//    public int compareTo(IVector o) {
+//        /*
+//         * Længden af vektoren kunne passende findes med en metode
+//         */
+//        double thisLength = Math.sqrt(Math.pow(this.x,2) + Math.pow(this.y,2));
+//        double oLength = Math.sqrt(Math.pow(o.getX(),2) + Math.pow(o.getY(),2));
+//        return Double.compare(thisLength, oLength);
+//
 }

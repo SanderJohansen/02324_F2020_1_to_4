@@ -1,9 +1,7 @@
 package ui;
-
 import data.IData;
 
 import java.util.Scanner;
-
 public class TUI implements IUI {
     private IData data;
     private Scanner scanner;
@@ -19,7 +17,7 @@ public class TUI implements IUI {
         System.out.println("-----------------------");
         System.out.println("1 Vis alle ingredienser");
         System.out.println("2 Vis ingrediens");
-        System.out.println("3 Ændr ingrediens");
+        System.out.println("3 Ændre ingrediens");
         System.out.println("4 Opret ingrediens");
         System.out.println("5 Afslut program");
 
@@ -73,8 +71,8 @@ public class TUI implements IUI {
         String ingredientName = data.getIngredientName(id);
 
         System.out.println("Du har valgt ingrediens: " + ingredientName);
-        System.out.println("1 Ændr navn");
-        System.out.println("2 Ændr mængde");
+        System.out.println("1 Ændre navn");
+        System.out.println("2 Ændre mængde");
         System.out.println("3 Annullér");
 
         System.out.print("Indtast valg: ");

@@ -1,8 +1,9 @@
 package data;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class DemoData implements IData {
+public class DemoDataArray implements IData {
     private class Ingredient {
         int id;
         String name;
@@ -19,33 +20,23 @@ public class DemoData implements IData {
             return id + " \'" + name + "\'" + " (" + amount + " gram)";
         }
     }
-    private List<Ingredient> ingredients;
+    private Ingredient[] ingredients;
 
-    public DemoData() {
-        ingredients = new ArrayList<>();
-        ingredients.add(new Ingredient(1, "flormelis", 60));
-        ingredients.add(new Ingredient(2, "mel", 240));
-        ingredients.add(new Ingredient(3, "smÃ¸r", 185));
+    public DemoDataArray() {
+        ingredients = new Ingredient[3];
+        ingredients[0]=(new Ingredient(10, "flormelis", 60));
+        ingredients[1]=(new Ingredient(2, "mel", 240));
+        ingredients[2]=(new Ingredient(3, "smør", 185));
     }
-
-//    @Override
-//    public List<String> getAllIngredients() {
-//        List<String> ingredientStrings = new ArrayList<>();
-//        for (Ingredient i : ingredients)
-//            ingredientStrings.add(i.toString());
-//        return ingredientStrings;
-//    }
 
     @Override
     public String[] getAllIngredients() {
         String[] temp;
-        temp = new String[ingredients.size()];
-
-        for (int i=0; i < ingredients.size(); i++){
-            temp[i]=ingredients.get(i).toString();
+        temp = new String[ingredients.length];
+        for (int j = 0; (j<ingredients.length) ; j++){
+            temp[j]=ingredients[j].toString();
         }
         return temp;
-
     }
 
     @Override
@@ -83,7 +74,11 @@ public class DemoData implements IData {
     }
 
     @Override
-    public void createIngredient(int id, String name, int amount) {
-        ingredients.add(new Ingredient(id, name, amount));
+    public void createIngredient(int id, String name, int amount){
+        Ingredient[] temp = new Ingredient[ingredients.length+1];
+        for (int j = 0; (j<ingredients.length); j++)
+            temp[j]=ingredients[j];
+        temp[ingredients.length-1+1]=new Ingredient(id, name, amount);
+        ingredients=temp;
     }
 }
