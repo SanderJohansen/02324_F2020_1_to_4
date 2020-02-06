@@ -2,7 +2,7 @@ package data;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// Ikke med i opgaveformuleringen. Her er en implementering som ikke anvender list / arraylist
 public class DemoDataArray implements IData {
     private class Ingredient {
         int id;
