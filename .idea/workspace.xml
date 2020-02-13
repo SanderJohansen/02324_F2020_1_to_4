@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3_exception/src/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_exception/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_exception/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_exception/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_exception/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_exception/src/MyLicenseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 stak/src/Main22.java" beforeDir="false" afterPath="$PROJECT_DIR$/1 stak/src/MainStak.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -29,10 +35,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578574260451" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3_exception/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -40,11 +46,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_exception\src" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\2 Anvendelse af 3 lags modellen\src\bmi" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\1 vector" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\Simpel 2 lags model\src" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\lek1\src\Stak" />
-      <recent name="K:\02324F20\02324 Solutions 1 - 4\src\uge01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.1 stak">
+  <component name="RunManager" selected="Application.3_exception">
     <configuration name="0 Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="0 Main" />
@@ -74,7 +80,7 @@
       </method>
     </configuration>
     <configuration name="1 stak" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MainStak" />
+      <option name="MAIN_CLASS_NAME" value="Main22" />
       <module name="1 stak" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,9 +102,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="2 Simpel 2 lags model" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="2 Simpel 2 lags model" />
+    <configuration name="3_exception" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main1" />
+      <module name="3_exception" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,7 +121,7 @@
       <item itemvalue="Application.complex" />
       <item itemvalue="Application.1 stak" />
       <item itemvalue="Application.1 vector" />
-      <item itemvalue="Application.2 Simpel 2 lags model" />
+      <item itemvalue="Application.3_exception" />
       <item itemvalue="Application.2 Anvendelse af 3 lags modellen" />
     </list>
   </component>
@@ -152,8 +158,10 @@
       <workItem from="1580760429647" duration="72000" />
       <workItem from="1580760574625" duration="90000" />
       <workItem from="1580760843277" duration="7000" />
-      <workItem from="1580815606350" duration="1445000" />
-      <workItem from="1581008848694" duration="14776000" />
+      <workItem from="1580761037863" duration="746000" />
+      <workItem from="1581421891936" duration="1152000" />
+      <workItem from="1581510536684" duration="978000" />
+      <workItem from="1581586178300" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="oprettet main 0">
       <created>1578904856406</created>
@@ -197,19 +205,19 @@
       <option name="project" value="LOCAL" />
       <updated>1580759947377</updated>
     </task>
-    <task id="LOCAL-00007" summary="demodataarray">
-      <created>1581030941148</created>
+    <task id="LOCAL-00007" summary="div rettelser">
+      <created>1580761061553</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1581030941148</updated>
+      <updated>1580761061553</updated>
     </task>
-    <task id="LOCAL-00008" summary="demodataarray">
-      <created>1581031269948</created>
+    <task id="LOCAL-00008" summary="div rettelser">
+      <created>1580815320993</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1581031269948</updated>
+      <updated>1580815320993</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
@@ -236,7 +244,6 @@
     <MESSAGE value="Tilføjet complex" />
     <MESSAGE value="oprettet bmi opgave" />
     <MESSAGE value="div rettelser" />
-    <MESSAGE value="demodataarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="demodataarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="div rettelser" />
   </component>
 </project>
