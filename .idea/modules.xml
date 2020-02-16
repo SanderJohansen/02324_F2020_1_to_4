@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/0 Main/0 Main.iml" filepath="$PROJECT_DIR$/0 Main/0 Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/02324 Solutions 1 - 4.iml" filepath="$PROJECT_DIR$/02324 Solutions 1 - 4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1 complex/1 complex.iml" filepath="$PROJECT_DIR$/1 complex/1 complex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1 stak/1 stak.iml" filepath="$PROJECT_DIR$/1 stak/1 stak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1 vector/1 vector.iml" filepath="$PROJECT_DIR$/1 vector/1 vector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/2 Anvendelse af 3 lags modellen.iml" filepath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/2 Anvendelse af 3 lags modellen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2 Simpel 2 lags model/2 Simpel 2 lags model.iml" filepath="$PROJECT_DIR$/2 Simpel 2 lags model/2 Simpel 2 lags model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3_exception/3_exception.iml" filepath="$PROJECT_DIR$/3_exception/3_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0_HelloWorld/0_HelloWorld.iml" filepath="$PROJECT_DIR$/0_HelloWorld/0_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Complex/1_Complex.iml" filepath="$PROJECT_DIR$/1_Complex/1_Complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Stak/1_Stak.iml" filepath="$PROJECT_DIR$/1_Stak/1_Stak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Vector/1_Vector.iml" filepath="$PROJECT_DIR$/1_Vector/1_Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/2_Anvendelse_af_3_lags_modellen.iml" filepath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/2_Anvendelse_af_3_lags_modellen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Simpel_2_lags_model/2_Simpel_2_lags_model.iml" filepath="$PROJECT_DIR$/2_Simpel_2_lags_model/2_Simpel_2_lags_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_excep.iml" filepath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_excep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" filepath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Exception/3_Exception.iml" filepath="$PROJECT_DIR$/3_Exception/3_Exception.iml" />
     </modules>
   </component>
 </project>

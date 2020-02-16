@@ -1,12 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="" />
+    <list default="true" id="feb4e661-44b2-4555-9e16-acb8e5540186" name="Default Changelist" comment="div rettelser">
+      <change afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/2_Anvendelse_af_3_lags_modellen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/2_Simpel_2_lags_model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_excep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/Funk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/IData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/IFunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/src/bmi/Tui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/cont/Cont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/dal/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/dal/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/dal/IData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/funk/Funk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/funk/IFunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/io/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/io/IIo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/io/IoGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/io/IoTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Exception/3_Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFile_W.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0 Main/0 Main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0_HelloWorld/0_HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0 Main/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/0_HelloWorld/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02324 Solutions 1 - 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02324 Solutions 1 - 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 complex/1 complex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Complex/1_Complex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 complex/src/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Complex/src/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 complex/src/IComplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Complex/src/IComplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 complex/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Complex/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/1 stak.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/Opgave Vektor - Google Docs.url" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/Opgave Vektor - Google Docs.url" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/IShowStak.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/IShowStak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/IStak.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/IStak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/MainStak.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/MainStak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/Stak_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/Stak_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/Stak_list2.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/Stak_list2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 stak/src/Stak_tabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/src/Stak_tabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/1 vector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/1_Vector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/Opgave Vektor - Google Docs.url" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/Opgave Vektor - Google Docs.url" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/IVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/src/IVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/src/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/TestVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/src/TestVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 vector/src/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Vector/src/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/2 Anvendelse af 3 lags modellen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Stak/1_Stak.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Funk.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/Funk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/IData.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/IData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/IFunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/IFunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Anvendelse af 3 lags modellen/src/bmi/Tui.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/src/bmi/Tui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/2 Simpel 2 lags model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/DemoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/data/DemoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/DemoDataArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/data/DemoDataArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/data/IData.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/data/IData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/ui/IUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/ui/IUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Simpel 2 lags model/src/ui/TUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_Simpel_2_lags_model/src/ui/TUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exception/src/MyLicenseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/3_Exception/src/MyLicenseException.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,10 +107,11 @@
   <component name="ProjectId" id="1W9vS1iO1ABo7sdhJlCEP0vGHJ4" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578574260451" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3_exception/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/src/GUI.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -37,11 +122,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\02324F20\02324 Solutions 1 - 4" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_Anvendelse_af_3_lags_modellen_med_gui\src\dal" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\3_exception\src" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\2 Anvendelse af 3 lags modellen\src\bmi" />
       <recent name="K:\02324F20\02324 Solutions 1 - 4\1 vector" />
-      <recent name="K:\02324F20\02324 Solutions 1 - 4\Simpel 2 lags model\src" />
-      <recent name="K:\02324F20\02324 Solutions 1 - 4\lek1\src\Stak" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\02324F20\02324 Solutions 1 - 4" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_Anvendelse_af_3_lags_modellen_med_excep" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_Anvendelse_af_3_lags_modellen_med_gui\src" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_Anvendelse_af_3_lags_modellen_med_gui\src\main" />
+      <recent name="K:\02324F20\02324 Solutions 1 - 4\3_Anvendelse_af_3_lags_modellen_med_gui\src\io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,10 +148,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.3_exception">
-    <configuration name="0 Main" type="Application" factoryName="Application">
+  <component name="RunManager" selected="Application.3_bmi_med_gui">
+    <configuration name="0_HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="0 Main" />
+      <module name="0_HelloWorld" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -72,14 +164,21 @@
     </configuration>
     <configuration name="1 stak" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main22" />
-      <module name="1 stak" />
+      <module name="1_Stak" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="1 vector" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main1" />
-      <module name="1 vector" />
+      <module name="1_Vector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1_Complex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="1_Complex" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,31 +187,71 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="bmi.Main" />
-      <module name="2 Anvendelse af 3 lags modellen" />
+      <module name="2_Anvendelse_af_3_lags_modellen" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="3_exception" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main1" />
-      <module name="3_exception" />
+    <configuration name="3_bmi_med_gui" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="3_Anvendelse_af_3_lags_modellen_med_gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="complex" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="1 complex" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="0_HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="0_HelloWorld" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.0 Main" />
-      <item itemvalue="Application.complex" />
+      <item itemvalue="Application.0_HelloWorld" />
+      <item itemvalue="Application.1_Complex" />
       <item itemvalue="Application.1 stak" />
       <item itemvalue="Application.1 vector" />
-      <item itemvalue="Application.3_exception" />
+      <item itemvalue="Application.3_bmi_med_gui" />
       <item itemvalue="Application.2 Anvendelse af 3 lags modellen" />
     </list>
   </component>
@@ -153,6 +292,8 @@
       <workItem from="1581421891936" duration="1152000" />
       <workItem from="1581510536684" duration="978000" />
       <workItem from="1581586178300" duration="787000" />
+      <workItem from="1581621646078" duration="3923000" />
+      <workItem from="1581636213719" duration="5899000" />
     </task>
     <task id="LOCAL-00001" summary="oprettet main 0">
       <created>1578904856406</created>
@@ -217,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581620658268</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="div rettelser">
+      <created>1581621711001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581621711001</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
