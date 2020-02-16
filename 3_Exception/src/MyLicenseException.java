@@ -1,4 +1,4 @@
-public class MyLicenseException extends Exception{
+class MyLicenseException extends Exception{
 	private static final long serialVersionUID = 1L;
 	private int taeller;
 	private int naevner;

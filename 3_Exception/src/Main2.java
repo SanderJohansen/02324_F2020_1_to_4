@@ -31,8 +31,6 @@ public class   Main2 {
 }
 
 /*
-filen flyttes ind i workspace/projektet, der hvor default kataloget er. 
-Vi behøver ingen sti projektet kan flyttes (eksporteres) 
 Der indføres en ny fejlmulighed ArithmeticException
 */
 

@@ -15,8 +15,8 @@ public class Main1 {
         System.out.println("vectors før sortering: " + Arrays.toString(vectors));
 
         //Sortor listen
-        Arrays.sort(vectors);
-        System.out.println("vectors efter sortering: " + Arrays.toString(vectors));
+        //Arrays.sort(vectors);
+        //System.out.println("vectors efter sortering: " + Arrays.toString(vectors));
 
         //Sammenlign to vektorer
         Vector v1 = new Vector(1.4, 2.3);

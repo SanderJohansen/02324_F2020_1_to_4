@@ -7,11 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/1_Complex/1_Complex.iml" filepath="$PROJECT_DIR$/1_Complex/1_Complex.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Stak/1_Stak.iml" filepath="$PROJECT_DIR$/1_Stak/1_Stak.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Vector/1_Vector.iml" filepath="$PROJECT_DIR$/1_Vector/1_Vector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/2_Anvendelse_af_3_lags_modellen.iml" filepath="$PROJECT_DIR$/2_Anvendelse_af_3_lags_modellen/2_Anvendelse_af_3_lags_modellen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_3 lags_model_BMI/2_3 lags_model_BMI.iml" filepath="$PROJECT_DIR$/2_3 lags_model_BMI/2_3 lags_model_BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Simpel_2_lags_model/2_Simpel_2_lags_model.iml" filepath="$PROJECT_DIR$/2_Simpel_2_lags_model/2_Simpel_2_lags_model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_excep.iml" filepath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_excep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" filepath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_excep/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_3_lags_model_BMI_med_excep/3_3_lags_model_BMI_med_excep.iml" filepath="$PROJECT_DIR$/3_3_lags_model_BMI_med_excep/3_3_lags_model_BMI_med_excep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" filepath="$PROJECT_DIR$/3_Anvendelse_af_3_lags_modellen_med_gui/3_Anvendelse_af_3_lags_modellen_med_gui.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_Exception/3_Exception.iml" filepath="$PROJECT_DIR$/3_Exception/3_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Simpel_2_lags_model_fortsat/3_Simpel_2_lags_model_fortsat.iml" filepath="$PROJECT_DIR$/3_Simpel_2_lags_model_fortsat/3_Simpel_2_lags_model_fortsat.iml" />
     </modules>
   </component>
 </project>
